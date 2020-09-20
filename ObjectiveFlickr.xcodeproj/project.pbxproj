@@ -345,6 +345,7 @@
 					"-framework",
 					AppKit,
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.lukhnos.ObjectiveFlickr;
 				PRODUCT_NAME = ObjectiveFlickr;
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = macosx;
@@ -374,6 +375,7 @@
 					"-framework",
 					AppKit,
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = org.lukhnos.ObjectiveFlickr;
 				PRODUCT_NAME = ObjectiveFlickr;
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = macosx;
